@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-plugin-smallchat",
+  "version": "1.0.0",
+  "description": "Plugin to add Smallchat to your Gatsby site",
+  "main": "index.js",
+  "repository": "git@github.com:ynnoj/gatsby-plugin-smallchat.git",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "smallchat"
+  ],
+  "author": "Jonathan Steele <jonathan@steele.pro> (https://steele.pro)",
+  "license": "MIT"
+}
